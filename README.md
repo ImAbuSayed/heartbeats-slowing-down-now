@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heartbeats-slowing-down-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Heartbeats Slowing Down Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartbeats-slowing-down-now/) |
+| **Get License** | [License this song: Heartbeats Slowing Down Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartbeats-slowing-down-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I watch the embers fading in the dark
+> I feel the fire waking in my heart
+> The heavy breathing tears us both apart
+> My heartbeats slowing down now
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
