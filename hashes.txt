@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Heartbeats Slowing Down Now
+
+This log tracks the cryptographic history and versioning for the song **Heartbeats Slowing Down Now** (heartbeats-slowing-down-now).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T13:36:27.258956 | `v1` | `e220bc12b39100b022dd175e95fbed306f5a119c6a2f08291268681b639a2dfe` | `9a92804dedfe75f66b1865814451a4b7fda35053b73e2971294da7ac7c2822db` | `2026-06-07_heartbeats-slowing-down-now-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

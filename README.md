@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heartbeats-slowing-down-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Heartbeats Slowing Down Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartbeats-slowing-down-now/) |
+| **Get License** | [Request Licensing for Heartbeats Slowing Down Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartbeats-slowing-down-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e220bc12b39100b022dd175e95fbed306f5a119c6a2f08291268681b639a2dfe` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
